@@ -12,6 +12,6 @@ def row_weights(row: list) -> list:
 
 
 row_weights([8, 5, 9, 3])
-print(row_weights([1, 2, 4, 2, 3]))
+print(row_weights([2, 3, 5, 6, 99]))
 
 print('fff')
